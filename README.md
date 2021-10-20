@@ -1,2 +1,2 @@
 # RD-Maps
-Maps implementation with Open Layer and "Rijksdriehoek" coordinates and "Stafkaarten"
+Maps implementation with Leaflet and "Rijksdriehoek" coordinates and "Stafkaarten"
